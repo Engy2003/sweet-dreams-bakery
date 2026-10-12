@@ -1061,7 +1061,7 @@ body header .menu-btn {
 
 @media (max-width: 768px) {
   html {
-    scroll-padding-top: 75px;
+    scroll-padding-top: 70px;
   }
 
   :root {
@@ -1246,7 +1246,7 @@ body header .menu-btn {
 
 @media (max-width: 480px) {
   html {
-    scroll-padding-top: 75px;
+    scroll-padding-top: 70px;
   }
 
   :root {
